@@ -1,0 +1,34 @@
+var dataSource={
+    "pass": 1,
+    "failed": 1,
+    "skip": 1,
+    "testResult": [{
+        "caseId": "Test123",
+        "testName": "testDemo1",
+        "description": "测试DEMO1",
+        "spendTime": "12ms",
+        "status": "PASS",
+        "exception": "null",
+        "log":"sssssssssss"
+    },{
+        "caseId": "Test345",
+        "testName": "testDemo2",
+        "description": "测试DEMO2",
+        "spendTime": "15ms",
+        "status": "FAIL",
+        "exception": "bbbbb",
+        "log":"sssssssssss"
+    },{
+        "caseId": "Test769",
+        "testName": "testDemo",
+        "description": "测试DEMO",
+        "spendTime": "11ms",
+        "status": "SKIP",
+        "exception": "aaaaa",
+        "log":"sssssssssss"
+    }
+    ],
+    "total":7,
+    "startTime": "2018-06-09 13:27:44.917",
+    "totalTime": "38ms"
+}
