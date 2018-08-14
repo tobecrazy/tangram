@@ -17,7 +17,7 @@ Introduction
 Visit the [online documentation](https://adminlte.io/docs) for the most
 updated guide.
 
-!["AdminLTE Presentation"](https://github.wdf.sap.corp/I321533/tangram/blob/master/M.png  "SAP Tangram")
+!["AdminLTE Presentation"](https://github.wdf.sap.corp/I321533/tangram/blob/master/export/ROOT/M.png  "SAP Tangram")
 
 ### Contribution
 Contribution are always **welcome and recommended**! Here is how:
